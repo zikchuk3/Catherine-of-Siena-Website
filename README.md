@@ -1,2 +1,3 @@
 # Catherine-of-Siena-Website
-for my English IV project
+
+Created this website using HTML, CSS, and JavaScript for my English project on an Ancient Woman Mystic! :)
